@@ -30,8 +30,8 @@ bl_info = {
     "description": "Draw curve quick!",
     "warning": "",
     "support": "COMMUNITY",
-    "wiki_url": "",
-    "tracker_url": "",
+    "wiki_url": "https://github.com/rn9dfj3/quicker/wiki",
+    "tracker_url": "https://github.com/rn9dfj3/quicker/issues",
     "category": "Add Curve"
 }
 PI = math.pi
