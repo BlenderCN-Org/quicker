@@ -1,6 +1,7 @@
 # Quicker
 Blender addon to draw curve quick!
-More information is [wiki](https://github.com/rn9dfj3/quicker/wiki).
+More information is [wiki](https://github.com/rn9dfj3/quicker/wiki).  
+![Good title](./title.png)
 # How to use
 ![Download](./1.png)
 ![Click User Preferense](./2.png)
